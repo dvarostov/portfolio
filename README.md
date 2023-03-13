@@ -6,6 +6,7 @@
 
  Дата рождения 30.09.1961
  
+![Foto](https://github.com/dvarostov/portfolio/blob/b414ad550151124953179f1e8c33639b627e8c9a/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.png)
 
- ![Alt text](../%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.png)
+
 
